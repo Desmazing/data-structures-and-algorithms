@@ -3,7 +3,7 @@
 # simple task is to add half the area and half the circumference
 # display all results to users
 
-import math
+import math # math module contains many methods to perform mathematical operations
 
 
 def circumf_area(radius):
