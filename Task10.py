@@ -1,5 +1,5 @@
 # 6 marks input from user...
-# calculate total, average and percentage
+# calculate total, average and percentage of the subject marks
 
 subj1 = int(input('Enter 1st subject mark: '))
 subj2 = int(input('Enter 2nd subject mark: '))
