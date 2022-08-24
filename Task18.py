@@ -1,4 +1,6 @@
 # dictionary formatting in Python
+# queued for later: what are sets?
+
 user_info =  {'name': '',
 		'address': '',
 		'contact' : ''}
