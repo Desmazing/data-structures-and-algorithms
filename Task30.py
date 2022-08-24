@@ -1,5 +1,5 @@
 # get user number input
-# check divisibility by 5 or 6
+# check divisibility by either 5 or 6, or both
 
 num = int(input('Enter a number: '))
 
