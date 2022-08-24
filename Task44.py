@@ -1,4 +1,4 @@
-# display in reverse order
+# display numbers in reverse order
 
 s = int(input("Enter a starting number: "))
 e = int(input("Enter an ending number: "))
