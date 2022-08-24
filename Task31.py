@@ -1,4 +1,4 @@
-# display scale
+# display scale; no else case
 
 scale = int(input('Enter the scale here: '))
 
