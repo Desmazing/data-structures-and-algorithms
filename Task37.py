@@ -1,5 +1,5 @@
 # get 6 numbers from user
-# find square of first 3, cube of last 3
+# find square of the first 3... the cube of last 3 numbers
 
 num_list = []
 
