@@ -2,6 +2,7 @@
 # display info in order
 # update cnic, age and contact
 # display updated results
+# basic indulgence in user input
 
 name = input("Enter student name: ")
 father_name = input("Enter father's name: ")
