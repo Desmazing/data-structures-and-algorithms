@@ -1,4 +1,5 @@
 # display scale; no else case
+# simple if_elif cases
 
 scale = int(input('Enter the scale here: '))
 
