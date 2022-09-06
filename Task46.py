@@ -1,5 +1,6 @@
 # get 5 subject marks from user, store them in array, student name.
 # Find total and display each subject marks
+# simple algorithms to explore basics
 
 import array as arr
 
