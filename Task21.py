@@ -1,4 +1,5 @@
 # find minimum number from array
+# learn differences between arrays, lists and tuples in Python
 
 import array as arr
 
