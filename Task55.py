@@ -1,4 +1,5 @@
 # program to convert date to milliseconds
+# what's between a millisecond and a microsecond
 # could easily use time since epoch
 
 from datetime import datetime
