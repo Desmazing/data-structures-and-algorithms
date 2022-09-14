@@ -1,5 +1,5 @@
 # Take two numbers and operator -- return result
-
+# must be refactored
 
 operator_list = ['+','-','*','/','%','//']
 
