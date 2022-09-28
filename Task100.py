@@ -1,6 +1,6 @@
 # add numbers from a list
 # should be greater than 5 and less than 10
-# Task is to add only even numbers from a list
+# lists and loops
 
 lst = [1,5,7,13,124,765,123,1,9,8,5,6,6,8,7,234,234,2,1]
 
