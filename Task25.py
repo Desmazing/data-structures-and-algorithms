@@ -1,5 +1,6 @@
 # get student marks, check for pass mark of 40
-# return pass if over 40, fail if less than 40
+# return pass if mark is over 40, fail if mark is less than 40
+
 
 name = (input('Enter name: ').lower())
 #marks = float(input('Enter marks: '))
