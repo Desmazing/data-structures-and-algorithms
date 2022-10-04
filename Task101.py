@@ -1,6 +1,6 @@
 # write program to display all student names except those starting with 'f'
 
-names = ['Faith', 'Collins', 'Evans', 'Gilly', 'Florence', 'Jackson']
+names = ['Faith', 'Collins', 'Evans', 'Gilly', 'Florence', 'Jackson', 'Taylor']
 newlst = []
 
 for name in names:
