@@ -4,6 +4,7 @@
 # return only the leap years
 
 import array as arr
+# what does the array module do?
 
 year_arr = arr.array('i', [])
 
