@@ -9,3 +9,5 @@ print(f'Square of {num1} is {num1 * num1}')
 
 def odd_even(num1):
   return "Odd number." if num1%2 else "Even number."
+
+odd_even(num1)
