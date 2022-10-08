@@ -19,13 +19,17 @@ print(diff.days)
 
 # the following code is for practice
 today = date.today()
+
 print("Today's date is", today)
 print("The month is", today.month) 
+
 # the month is an attribute of the date object
 print("The day is", today.day)
+
 # the day is an attribute of the date object 
 # we can also do the same for year
 print("The day is", today.year)
+
 # the year is an attribute of the date object 
 
 t1 = input("Enter time 1: ")
