@@ -39,5 +39,6 @@ tim2 = datetime.strptime(t2, time_format)
 td = tim2 - tim1
 
 print("Hour difference is", (td.seconds/3600), "hours") 
+
 # worth noting that timedelta has no hour attribute. just days and seconds hence conversions
 # td.hours would thus not work
